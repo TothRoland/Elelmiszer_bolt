@@ -1,0 +1,30 @@
+búzafinomliszt;1kg;40;240
+rizs;1kg;20;380
+ételecet;1l;15;360
+napraforgó-étolaj;1l;16;680
+kristálycukor;1kg;30;270
+csemegeuborka;550g;14;980
+spagetti tészta;500g;9;525
+majonéz;620g;12;1020
+banán;1kg;10;430
+sárga burgonya;1kg;23;400
+UHT tej 2,8%;1l;37;285
+Rama sütőmargarin;500g;18;600
+szeletelt trapistasajt;125g;14;410
+tojás;10db;36;700
+félbarna kenyér;1kg;22;250
+kalács;300g;18;400
+virsli;350g;10;640
+szeletelt téliszalámi;70g;11;650
+sertés májas;200g;12;550
+csirkemell;1kg;20;1100
+darált marhahús;500g;13;1100
+őrölt kávé;500g;11;1050
+ásványvíz;1,5l;34;120
+100% naranycslé;1l;17;600
+instant kakaóitalpor;800g;9;1400
+gyorsfagyasztott zöldborsó;1kg;10;870
+gyorsagyasztott hasábburgonya;1,5kg;12;890
+gyorsfagyasztott sonkáspizza;425g;7;950
+vaniliás karika;300g;8;700
+háztartási keksz;200g;13;260

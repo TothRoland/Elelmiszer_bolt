@@ -1,0 +1,7 @@
+C:\Users\tothr\Desktop\Projektfeladat\Élelmiszer Bolt\Élelmiszer Bolt\bin\Debug\Élelmiszer Bolt.exe.config
+C:\Users\tothr\Desktop\Projektfeladat\Élelmiszer Bolt\Élelmiszer Bolt\bin\Debug\Élelmiszer Bolt.exe
+C:\Users\tothr\Desktop\Projektfeladat\Élelmiszer Bolt\Élelmiszer Bolt\bin\Debug\Élelmiszer Bolt.pdb
+C:\Users\tothr\Desktop\Projektfeladat\Élelmiszer Bolt\Élelmiszer Bolt\obj\Debug\Élelmiszer Bolt.csprojAssemblyReference.cache
+C:\Users\tothr\Desktop\Projektfeladat\Élelmiszer Bolt\Élelmiszer Bolt\obj\Debug\Élelmiszer Bolt.csproj.CoreCompileInputs.cache
+C:\Users\tothr\Desktop\Projektfeladat\Élelmiszer Bolt\Élelmiszer Bolt\obj\Debug\Élelmiszer Bolt.exe
+C:\Users\tothr\Desktop\Projektfeladat\Élelmiszer Bolt\Élelmiszer Bolt\obj\Debug\Élelmiszer Bolt.pdb

@@ -1,0 +1,59 @@
+Futtatáskor két menüpont közül lehet választani:
+-Világos mód
+-Sötét mód
+Világos mód kiválasztása esetén a program átállítja a hátteret fehérre valamint a betűszínt feketére. Sötét módnál az alapértelmezett színeken marad.
+
+------------------------------------------
+
+A szín választás után megjelenik a főmenü:
+-Belépés a boltban dolgozóként
+-Belépés vásárlóként
+-Kilépés
+Belépés után mindkét esetben új menüpontok jelennek meg.
+Kilépésnél a program leáll.
+
+----------------------------------------------
+
+Dolgozóként belépés után megjelenő menüpontok:
+-Új árucikk felvitele
+-Árufeltöltés
+-Árváltoztatás
+-Jelenlegi árucikkek kilistázása
+-Visszalépés a főmenübe
+
+Új árucikk felvitele:
+A program megkérdezi a felhasználót az új árucikk nevéről, mennyiségéről, darabszámáról és az áráról Ezután a program kiírja az arucikkek{index}.txt-be a beérkezett adatokat.
+
+Árufeltöltés:
+A program megkérdezi melyik áruhoz érkezett szállítmány és mennyi darab majd kiírja egy új arucikkek{index + 1}.txt-be (az összes árucikkel és adataikkal együtt). Az index.txt-be is kiír egy új sorba egy x-et.
+
+Árváltoztatás:
+A program megkérdezi melyik árucikknek változott az ára és az új áráról majd kiírja egy új arucikkek{index + 1}.txt-be (az összes árucikkel és adataikkal együtt). Az index.txt-be is kiír egy új sorba egy x-et.
+
+Jelenlegi árucikkek kilistázása:
+A program kilistázza a konzolra az arucikkek{index}.txt állományt.
+Visszalépés a főmenübe:
+A program visszalép a főmenübe (meghívja a fomenu() függvényt).
+
+--------------------------------------------------
+
+Felhasználóként belépés után megjelenő menüpontok:
+-Árucikkek kilistázása
+-Vásárlás
+-Visszalépés a főmenübe
+
+Árucikkek kilistázása:
+A program kilistázza a konzolra az arucikkek{index}.txt állományt.
+
+Vásárlás:
+A program megkérdezi melyik árucikkből,mennyit és milyen fizetési móddal (készpénz, bankkártya vagy utalvány) szeretne vásárolni a felhasználó. Egy új arucikkek{index + 1).txt állományba levonja az adott árucikk darabszámából a vásárolt mennyiséget (az összes árucikkel és adataikkal együtt).
+Bankkártyás fizetésnél 5% kedvezményt kapunk a vásárlásból melyet automatikusan kifizet a program és kiírja: “Nem jár visszajáró.” és “Köszönjük a vásárlását!” feliratot.
+Készpénzzel vagy utalvánnyal történő vásárlás esetén nem jár kedvezmény. A program kiírja a fizetendő összeget ezután nekünk kell ezt kifizetni. Fizetés után kiírja a visszajárót és megköszöni a vásárlásunkat.
+
+Visszalépés a főmenübe:
+A program visszalép a főmenübe (meghívja a fomenu() függvényt).
+
+-----------------------------------------
+
+További magyarázat a program működéséhez:
+Az index.txt állomány az arucikkek.txt állományok indexeléséhez készült. Akárhányszor műveletet kell végeznünk az arucikkek.txt-vel mindig az aktuális indexű txt fájlt használja a program. Ezzel értem el azt, hogy ha felviszek egy új árucikket a dolgozói menüben kilépés nélkül ugyanennek az árucikknek meg tudom változtatni az árát vagy akár vásárolni is tudok belőle a vásárlói menüben.
